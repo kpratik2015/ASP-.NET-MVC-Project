@@ -207,6 +207,7 @@
     <Content Include="css\dataTables.bootstrap.min.css" />
     <Content Include="css\jquery.dataTables.min.css" />
     <Content Include="css\jquery.dataTables_themeroller.css" />
+    <Content Include="css\site.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
