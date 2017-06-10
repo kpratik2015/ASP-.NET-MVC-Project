@@ -1,0 +1,14 @@
+﻿body {
+    padding-top: 50px;
+}
+
+.defaultText {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+
+@media (min-width: 768px){
+    .navbar-right {
+        margin-right: 0px;
+    }
+}
