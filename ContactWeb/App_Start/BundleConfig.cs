@@ -9,7 +9,7 @@ namespace ContactWeb
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/js/lib/jquery-{version}.min.js"));
+                        "~/js/lib/jquery-3.2.1.min.js"));
 
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(

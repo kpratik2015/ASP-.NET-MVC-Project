@@ -66,6 +66,7 @@ namespace ContactWeb.Controllers
         [Authorize] //Attribute
         public ActionResult Create()
         {
+            ViewBag.UserId = GetCurrentUserId();
             return View();
         }
 
@@ -83,7 +84,7 @@ namespace ContactWeb.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
+            ViewBag.UserId = GetCurrentUserId(); //In case the contact object is invalid and user hits submit then we save the reference
             return View(contact);
         }
 
