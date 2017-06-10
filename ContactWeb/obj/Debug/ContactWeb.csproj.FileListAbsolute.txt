@@ -94,3 +94,5 @@ D:\ASP .NET MVC\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
 D:\ASP .NET MVC\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 D:\ASP .NET MVC\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 D:\ASP .NET MVC\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
+D:\ASP .NET MVC\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.initial.resources
+D:\ASP .NET MVC\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
